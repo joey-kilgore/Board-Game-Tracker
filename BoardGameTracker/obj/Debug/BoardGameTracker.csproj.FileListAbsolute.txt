@@ -1,0 +1,11 @@
+C:\Users\joeya\Source\Repos\TestRepo\BoardGameTracker\BoardGameTracker\bin\Debug\BoardGameTracker.exe.config
+C:\Users\joeya\Source\Repos\TestRepo\BoardGameTracker\BoardGameTracker\bin\Debug\BoardGameTracker.exe
+C:\Users\joeya\Source\Repos\TestRepo\BoardGameTracker\BoardGameTracker\bin\Debug\BoardGameTracker.pdb
+C:\Users\joeya\Source\Repos\TestRepo\BoardGameTracker\BoardGameTracker\obj\Debug\BoardGameTracker.csprojResolveAssemblyReference.cache
+C:\Users\joeya\Source\Repos\TestRepo\BoardGameTracker\BoardGameTracker\obj\Debug\BoardGameTracker.Properties.Resources.resources
+C:\Users\joeya\Source\Repos\TestRepo\BoardGameTracker\BoardGameTracker\obj\Debug\BoardGameTracker.csproj.GenerateResource.Cache
+C:\Users\joeya\Source\Repos\TestRepo\BoardGameTracker\BoardGameTracker\obj\Debug\BoardGameTracker.exe
+C:\Users\joeya\Source\Repos\TestRepo\BoardGameTracker\BoardGameTracker\obj\Debug\BoardGameTracker.pdb
+C:\Users\joeya\Source\Repos\TestRepo\BoardGameTracker\BoardGameTracker\obj\Debug\BoardGameTracker.MainScreen.resources
+C:\Users\joeya\Source\Repos\TestRepo\BoardGameTracker\BoardGameTracker\obj\Debug\BoardGameTracker.ScoreEntry.resources
+C:\Users\joeya\Source\Repos\TestRepo\BoardGameTracker\BoardGameTracker\obj\Debug\BoardGameTracker.ViewStats.resources
